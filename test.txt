@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 yo 
 
 putting some lines to rollback on
 
 so confused...
+=======
+>>>>>>> parent of 0296b7f... something to roll backon
